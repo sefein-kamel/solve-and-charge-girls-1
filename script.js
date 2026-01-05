@@ -107,7 +107,7 @@ function showResult() {
     resultEl.innerHTML = "";
 
     if (score === quizData.length) {
-        const code = "#102*1*5350001949176923#";
+        const code = "#102*1*3059134620235019#";
 
         resultEl.innerHTML = `
             <p>رائع إجاباتك كلها صحيحة</p>
